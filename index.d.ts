@@ -1,4 +1,4 @@
-declare module "react-native-background-upload" {
+declare module "@rederteph/react-native-background-upload" {
     import type { EventSubscription } from 'react-native';
 
     export interface EventData {
